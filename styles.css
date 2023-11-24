@@ -44,20 +44,6 @@ h1{
     animation: hover 4s linear infinite alternate-reverse;
 }
 
-.triangle::before {
-    content: '';
-    position: absolute;
-    width: 0;
-    height: 0;
-    z-index: -1;
-    top: 0px;
-    left: -45px;
-    border-style: solid;
-    border-width: 0 45px 85px 45px;
-    border-color: transparent transparent black transparent;
-    animation: bord 4s linear infinite alternate-reverse;
-   }
-
 .oval{
     height: 60px;
     width: 120px;
