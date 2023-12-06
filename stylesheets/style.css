@@ -101,5 +101,6 @@ h1{
 @media (max-width: 425px){
     body{
         max-height: 80vh;
+        scale: 70%;
     }
 }
