@@ -97,3 +97,9 @@ h1{
         scale: 80%;
     }
 }
+
+@media (max-width: 425px){
+    body{
+        max-height: 80vh;
+    }
+}
