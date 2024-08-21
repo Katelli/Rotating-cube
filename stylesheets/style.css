@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: lightgreen;
-    min-height: 100vh;
+    min-height: 120svh;
 }
 
 h1{
